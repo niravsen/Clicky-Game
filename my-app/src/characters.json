@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Arthur",
+        "image": "https://pbs.twimg.com/profile_images/740956453947768833/_MacmsO6.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Buster",
+        "image": "https://vignette.wikia.nocookie.net/parody/images/6/6b/Arthur_Buster_Baxter.png/revision/latest?cb=20170117000350"
+    },
+    {
+        "id": 3,
+        "name": "Francine",
+        "image": "https://vignette.wikia.nocookie.net/arthur/images/6/64/Francine_706b.png/revision/latest/scale-to-width-down/250?cb=20160903120046"
+    },
+    {
+        "id": 4,
+        "name": "Muffy",
+        "image": "https://i1.wp.com/badbooksgoodtimes.com/wp-content/uploads/2016/05/arthur-muffy.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Binky",
+        "image": "https://pbs.twimg.com/profile_images/466771742162055168/TS96Xxp4_400x400.png"
+    },
+    {
+        "id": 6,
+        "name": "D.W.",
+        "image": "http://images6.fanpop.com/image/photos/36100000/Arthur-image-arthur-36196464-500-364.png"
+    },
+    {
+        "id": 7,
+        "name": "Brain",
+        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2016-09/20/18/enhanced/buzzfeed-prod-fastlane02/enhanced-14627-1474411029-3.png?downsize=800:*&output-format=auto&output-quality=auto"
+    },
+    {
+        "id": 8,
+        "name": "Sue-Ellen",
+        "image": "https://pbs.twimg.com/profile_images/2639492773/47badffc8d5e7a33c4db5f86391781ff_400x400.jpeg"
+    },
+    {
+        "id": 9,
+        "name": "Mr. Ratburn",
+        "image": "https://pbs.twimg.com/profile_images/717088844450033664/WOC3Hb7W_400x400.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Pal",
+        "image": "https://vignette.wikia.nocookie.net/arthur/images/f/fa/Pal.png/revision/latest?cb=20180208053507"
+    },
+    {
+        "id": 11,
+        "name": "Prunella",
+        "image": "https://vignette.wikia.nocookie.net/arthur/images/7/7f/Prunella.png/revision/latest/scale-to-width-down/250?cb=20160604095245"
+    },
+    {
+        "id": 12,
+        "name": "Fern",
+        "image": "https://vignette.wikia.nocookie.net/arthur/images/a/a3/Fern_Walters.png/revision/latest/scale-to-width-down/250?cb=20150714011141"
+    }
+]

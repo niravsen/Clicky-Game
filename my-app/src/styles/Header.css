@@ -1,0 +1,55 @@
+/* @font-face {
+    font-family: myFirstFont;
+    src: url("/images/Nue-Gothic.ttf");
+} */
+
+.header {
+    height: 220px;
+    text-align: center;
+    background-color: rgb(238, 204, 14);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 20px;
+}
+
+.header h1 {
+    padding-top: 35px;
+    font-size: 72px;
+    font-family: 'Luckiest Guy', cursive;
+    letter-spacing: 4px;
+    font-weight: bold;
+    color: 	rgb(197, 9, 9);
+    text-shadow: 5px 5px rgb(40, 101, 158);
+}
+
+.header p {
+    font-size: 20px;
+    color: black;
+
+}
+
+@media all and (max-width: 800px) { 
+    .header {
+        /* height: 180px; */
+    }
+    .header h1 {
+        padding-top: -40px;
+        font-size: 60px; 
+    }
+    .header p {
+        font-size: 24px;
+    }
+}
+
+@media all and (max-width: 650px) { 
+    .header {
+        /* height: px; */
+    }
+    .header h1 {
+        font-size: 48px;
+    }
+    .header p {
+        font-size: 20px;
+        
+    }
+}

@@ -1,0 +1,22 @@
+
+.wrapper {
+    padding-top: 50px;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 20px;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    max-width: 1200px;
+    margin: auto;
+    /* background-image: url("./images/zigzag2.jpg"); */
+    background-color: lightblue;
+}
+
+@media all and (max-width: 1440px) { 
+    .wrapper {
+        max-width: 900px;
+    }
+    
+}

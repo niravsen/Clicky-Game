@@ -1,0 +1,26 @@
+.navbar {
+    background-color: black;
+}
+
+.navbar-brand {
+    color: white;
+    font-size: 30px;
+    margin-left: 100px;
+
+}
+
+.navbar li {
+    display: inline-block;
+    color: white;
+    margin-right: 250px;
+}
+
+.navcenter {
+    font-size: 30px;
+    text-align: center;
+}
+
+.score {
+    font-size: 20px;
+}
+
